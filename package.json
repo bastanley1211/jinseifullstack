@@ -1,0 +1,16 @@
+{
+  "name": "jinsei",
+  "version": "1.0.0",
+  "description": "Nucamp Mongo/Express/Node Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "author": "Bethany Stanley",
+  "license": "ISC"
+}
